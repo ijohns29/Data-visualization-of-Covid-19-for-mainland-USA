@@ -66,6 +66,7 @@ Here we can see recent trends positivity rate for under and over 35 age groups a
 ## Baltimore Covid-19 Testing sites
 ![alt text](https://github.com/ijohns29/Data-visualization-of-Covid-19-for-mainland-USA/blob/main/Baltimore%20Covid-19%20Testing%20Sites.JPG)
 ## Montana Covid-19 Testing sites
+![alt text](https://github.com/ijohns29/Data-visualization-of-Covid-19-for-mainland-USA/blob/main/Montana%20Covid-19%20testing%20sites.JPG)
 ## Airport Safety Precautions
 1. Currently BWI airport has a number of administrative controls in [place](https://www.bwiairport.com/COVID19socialdistancing) to minimize spread of Covid-19. These include all restuarants at 50% capacity, social distancing and masks required, as well as various plexiglass installments at high traffic areas (e.g. security, airline counters, checkout lines etc.). Currently the government of the state of Maryland, and posted on the BWI [airport](https://www.bwiairport.com/COVID19socialdistancing) strongly discourages travel to areas with incidence equal to or greater than 20 per 100k.  
 2. [BTM](https://co.silverbow.mt.us/2167/COVID-19) listed basic conditions such as mask wearing and hygiene but no other engineering controls were mentioned. They did include latest update on local Covid-19 status, local restrictions in place and most recent state goal i.e. getting 7 day incidence below 25 per 100k for two weeks.
